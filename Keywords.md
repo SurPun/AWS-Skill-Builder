@@ -1,5 +1,7 @@
 # Keywords
 
-## Module 1
+## Module 1 Introduction to Amazon web service
 
 - Amazon Elastic Compute Cloud (Amazon EC2)
+
+## Module 2 Compute in the cloud
