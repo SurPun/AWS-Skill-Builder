@@ -1,7 +1,9 @@
 # Keywords
 
-## Module 1 Introduction to Amazon web service
+## Module 1 - Introduction to Amazon web service
 
 - Amazon Elastic Compute Cloud (Amazon EC2)
 
-## Module 2 Compute in the cloud
+## Module 2 - Compute in the cloud
+
+- IOPS (input/output operations per second)

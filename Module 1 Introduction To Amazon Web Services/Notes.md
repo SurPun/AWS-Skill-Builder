@@ -1,6 +1,6 @@
 # Notes
 
-## Lesson 3 Introduction
+## Lesson 3 - Introduction
 
 ### Aws service Offerings
 
