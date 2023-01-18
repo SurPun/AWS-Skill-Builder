@@ -1,6 +1,8 @@
 # Notes
 
-## Aws service Offerings
+## Lesson 3 Introduction
+
+### Aws service Offerings
 
 Offers Many, including:
 
@@ -14,7 +16,7 @@ Offers Many, including:
 - Video Production
 - Orbital Satellites
 
-## What is a client-server model?
+### What is a client-server model?
 
 In computing, a client can be a web browser or desktop application that a person interacts with to make requests to computer servers. A server can be services such as Amazon Elastic Compute Cloud (Amazon EC2), a type of virtual server.
 
