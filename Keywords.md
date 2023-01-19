@@ -7,3 +7,4 @@
 ## Module 2 - Compute in the cloud
 
 - IOPS (input/output operations per second)
+- ELB (Elastic Load Balancing)
