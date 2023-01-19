@@ -15,3 +15,5 @@
 - Cloud computing with AWS - https://aws.amazon.com/what-is-aws/
 
 ## Module 2 Compute in the cloud
+
+- Amazon SNS - https://aws.amazon.com/sns/

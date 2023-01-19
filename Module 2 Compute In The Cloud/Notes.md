@@ -1,7 +1,20 @@
 # Notes
 
 - IOPS:
+
   In computing, the term input/output operations per second (IOPS) is a metric that measures the performance of a storage device. It indicates how many different input or output operations a device can perform in one second. Storage optimized instances are designed to deliver tens of thousands of low-latency, random IOPS to applications.
+
+- Payload:
+
+  Data contained within a message.
+
+- Amazon SQS queues:
+
+  Where messages are placed until they are processed.
+
+- Amazon SNS topic:
+
+  A channel for messages to be delivered
 
 ## Lesson 6 - Introduction
 
@@ -52,3 +65,11 @@
   Is the AWS service that automatically distributes incoming application traffic across multiple resources, such as Amazon EC2 instances.
 
 ## Lesson 11 - Messaging and queuing
+
+- Amazon SQS
+
+  - Send messages
+  - Store messages
+  - Recieve messages
+  - Between software components
+  - At any volume

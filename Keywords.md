@@ -8,3 +8,5 @@
 
 - IOPS (input/output operations per second)
 - ELB (Elastic Load Balancing)
+- Amazon SQS (Amazon Simple Queue Service)
+- Amazon SNS (Amazon Notification Service)
