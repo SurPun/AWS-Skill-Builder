@@ -42,11 +42,13 @@
 ## Lesson 9 - Scaling Amazon EC2
 
 - Amazon EC2 Auto Scaling:
+
   By adding Amazon EC2 Auto Scaling to an application, you can add new instances to the application when necessary and terminate them when no longer needed.
 
 ## Lesson 10 - Directing traffic with Elastic Load Balancing
 
 - Elastic Load Balancing:
+
   Is the AWS service that automatically distributes incoming application traffic across multiple resources, such as Amazon EC2 instances.
 
 ## Lesson 11 - Messaging and queuing
