@@ -73,3 +73,45 @@
   - Recieve messages
   - Between software components
   - At any volume
+
+## Lesson 12 - Additional compute services
+
+- Serverless: You cannot see or access the underlying infrastructure
+
+---
+
+Container Orchestration tools - Docker - Container is a package for your code.
+
+- Amazon Elastic Container Service (Amazon ECS)
+- Amazon Elastic Kubernetes Service (Amazon EKS)
+
+---
+
+- AWS Fargate (Serverless)
+
+---
+
+Compute services:
+
+If you want to...
+
+- Host traditional applications
+- Full access to the OS
+  ...Use Amazon EC2
+
+---
+
+- Host short running functions
+- Service-oriented applications
+- Event driven applications
+- No provisioning or managing servers
+  ... Use Serverless AWS Lambda
+
+---
+
+- Run Docker container-based workloads on AWS
+- Amazon ECS or Amazon EKS
+  ...Option 1 Amazon EC2 that you manage
+  ...Option 2 AWS Fargate managed for you
+
+## Lesson 13 - Module 2 summary
