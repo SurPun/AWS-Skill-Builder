@@ -115,3 +115,55 @@ If you want to...
   ...Option 2 AWS Fargate managed for you
 
 ## Lesson 13 - Module 2 summary
+
+- Cloud computing:
+
+  - The on-demand delivery of IT resources over the internet with pay-as-you-go pricing
+
+- Amazon Elastic Compute Cloud (Amazon EC2:
+
+  - EC2 instance families:
+
+    - General purpose
+    - Compute optimized
+    - Memory optimized
+    - Accelerated Computing
+    - Storage optimized
+
+  - Can scale EC2 instance vertically by resizing the instance or horizontally by adding more instance.
+
+    - Amazon EC2 Auto Scaling: Automated horizontal scaling
+    - Elastic load Balancing (ELB) - distributes oncoming traffic to scaled instances.
+
+  - Amazon EC2 billing options
+
+    - On-Demand
+    - Spot Instances
+    - Reserved Instances
+    - Savings Plans
+
+- Amazon Simple Queue Service (Amazon SQS):
+
+  - This service allows you to decouple system components.
+  - Messages remain in the queue until they are either consumed or deleted.
+
+- Amazon Simple Notification Service (Amazon SNS):
+
+  - Used for sending messages like emails, text messages, push notifications or even HTTP requests.
+  - Once the message is published, it is sent to all of these subscribers.
+
+- Container Orchestration tools:
+
+  - Amazon Elastic Container Service (Amazon ECS)
+
+  - Amazon Elastic Kubernetes Service (Amazon EKS)
+
+- AWS Fargate
+
+  - Run your containers on top of a serverless compute platform.
+
+- AWS Lambda
+
+  - Allows you to upload your code and configure it to run bvased on triggers.
+
+  - Only get charged for when the code is actually running.
