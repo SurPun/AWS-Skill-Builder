@@ -7,3 +7,26 @@
   This is similar to how the AWS global infrastructure works.
 
 ## Lesson 16 - AWS global infrastructure
+
+- Selecting a Region
+
+  - Compliance with data governance and legal requirements
+  - Proximity to your customers
+  - Available services within a Region
+  - Pricing
+
+- Availability Zones
+
+  -
+
+- Knowledge check
+
+  - Which statement best describes an Availability Zone?
+
+    - The correct response option is A single data center or group of data centers within a Region.
+
+    The other response options are incorrect because:
+
+    A Region is a geographical area that contains AWS resources.
+    An edge location is a data center that an AWS service uses to perform service-specific operations. Edge locations are examined in the next section of this module.
+    AWS Outposts is a service that you can use to run AWS infrastructure, services, and tools in your own on-premises data center in a hybrid approach. AWS Outposts is explored later in this module.
