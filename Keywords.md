@@ -23,3 +23,5 @@
 ## Module 5 - Storage and Databases
 
 - Amazon Elastic Block Store (EBS)
+- Amazon Simple Storage Service (Amazon S3)
+- Amazon Elastic File System (Amazon EFS)
