@@ -19,3 +19,7 @@
 
 - Amazon Virtual Private Cloud (VPC)
 - Network Access Control List (Network ACL)
+
+## Module 5 - Storage and Databases
+
+- Amazon Elastic Block Store (EBS)
