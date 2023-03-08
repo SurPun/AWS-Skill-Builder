@@ -47,3 +47,25 @@
         - By default, your account’s default network ACL allows all inbound and outbound traffic, but you can modify it by adding your own rules. For custom network ACLs, all inbound and outbound traffic is denied until you add rules to specify which traffic should be allowed. Additionally, all network ACLs have an explicit deny rule. This rule ensures that if a packet doesn’t match any of the other rules on the list, the packet is denied.
 
 ## Lesson 24 - Global Networking
+
+- Amazon Route 53 routing policies
+  - Latency-based routing
+  - Geolocation DNS
+  - Geoproximity routing
+  - Weighted round robin
+
+1. Which statement best describes DNS resolution?
+
+   - Translating a domain name to an IP address.
+
+   For example, if you want to visit AnyCompany’s website, you enter the domain name into your PC and this request is sent to a DNS server. Next, the DNS server asks the web server for the IP address that corresponds to AnyCompany’s website. The web server responds by providing the IP address for AnyCompany’s website, 192.0.2.0.
+
+## Lesson 25 - Module 4 Summary
+
+In Module 4, you learned about the following concepts:
+
+- Structuring and connecting to a VPC
+
+- Securing VPC resources with network access control lists and security groups
+
+- Using Amazon Route 53 and Amazon CloudFront to deliver content
