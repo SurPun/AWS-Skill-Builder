@@ -11,6 +11,11 @@
 - Amazon SQS (Amazon Simple Queue Service)
 - Amazon SNS (Amazon Notification Service)
 
-# Module 3 - Introduction
+# Module 3 - Global Infrastructure And Reliability
 
 - Content Delivery Network (CDN)
+
+## Module 4 - Networking
+
+- Amazon Virtual Private Cloud (VPC)
+- Network Access Control List (Network ACL)
