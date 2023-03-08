@@ -43,3 +43,20 @@ Knowledge check:
         Amazon S3 Glacier Flexible Retrieval and Amazon S3 Glacier Deep Archive are low-cost storage classes that are ideal for data archiving. They would not be the best choice for this scenario, which requires high availability. You can retrieve objects stored in the Amazon S3 Glacier Flexible Retrieval storage class within a few minutes to a few hours. By comparison, you can retrieve objects stored in the Amazon S3 Glacier Deep Archive storage class within 12 hours.
 
 ## Lesson 30 - Amazon Elastic File System (Amazon EFS)
+
+- Amazon EFS
+
+  - Multiple Instances can access the data in EFS at the same time.
+  - Multiple instances reading and writing simultaneously.
+  - Linux file system
+  - Regional resource
+  - Automatically scales
+
+- Amazon EBS
+
+  - Volumes attach to EC2 instances
+  - Availability Zone level resource
+  - Need to be in the same Availability Zone to attach EC2 instances
+  - Volumes do not automatically scale
+
+# Lesson 31 - Amazon Relational Database Service (Amazon RDS)
