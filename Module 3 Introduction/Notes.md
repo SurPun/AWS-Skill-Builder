@@ -43,3 +43,26 @@
   - An edge location is a site that Amazon CloudFront uses to store cached copies of your content closer to your customers for faster delivery.
 
 ## Lesson 18 - How to provision AWS resources
+
+- Ways to interact with AWS services
+
+  - AWS Management Console
+  - AWS CLI
+  - Software Development Kits SDKs
+
+- AWS Elastic Beanstalk
+
+  - With AWS Elastic Beanstalk, you provide code and configuration settings, and Elastic Beanstalk deploys the resources necessary to perform the following tasks:
+
+    - Adjust capacity
+    - Load balancing
+    - Automatic scaling
+    - Application health monitoring
+
+- AWS CloudFormation
+
+  - With AWS CloudFormation, you can treat your infrastructure as code. This means that you can build an environment by writing lines of code instead of using the AWS Management Console to individually provision resources.
+
+  - AWS CloudFormation provisions your resources in a safe, repeatable manner, enabling you to frequently build your infrastructure and applications without having to perform manual actions. It determines the right operations to perform when managing your stack and rolls back changes automatically if it detects errors
+
+## Lesson 19 - Module 3 Summary
