@@ -66,3 +66,11 @@
   - AWS CloudFormation provisions your resources in a safe, repeatable manner, enabling you to frequently build your infrastructure and applications without having to perform manual actions. It determines the right operations to perform when managing your stack and rolls back changes automatically if it detects errors
 
 ## Lesson 19 - Module 3 Summary
+
+In Module 3, you learned about the following concepts:
+
+- AWS Regions and Availability Zones
+- Edge locations and Amazon CloudFront
+- The AWS Management Console, AWS CLI, and SDKs
+- AWS Elastic Beanstalk
+- AWS CloudFormation
