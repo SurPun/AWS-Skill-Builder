@@ -84,3 +84,22 @@ Knowledge check:
   Point-in-time recovery
 
 # Lesson 32 - Amazon DynamoDB
+
+- Amazon DynamoDB:
+  A non-relational database
+  Purpose built
+  Millisecond response time
+  Fully managed
+  Highly scalable
+
+- Knowledge check
+
+  What are the scenarios in which you should use Amazon Relational Database Service (Amazon RDS)? (Select TWO.)
+
+        Using SQL to organize data
+
+        Storing data in an Amazon Aurora database
+
+  The other three response options are scenarios in which you should use Amazon DynamoDB.
+
+# Lesson 33 - Amazon Redshift
