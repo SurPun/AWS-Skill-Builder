@@ -29,3 +29,7 @@
 - Amazon Database Migration Service (Amazon DMS)
 - Amazon Quantum Ledger Database(Amazon QLDB)
 - Amazon DynamoDB Accelerator (DAX)
+
+## Module 6 - Security
+
+-
