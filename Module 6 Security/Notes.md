@@ -19,3 +19,27 @@ Which tasks are the responsibilities of customers? (Select TWO.)
 The other three response options are tasks that are the responsibility of AWS.
 
 ## Lesson 40 - User permissions and access
+
+- AWS Identity and Access Management (AWS IAM)
+
+- AWS IAM
+
+  - Root user
+  - Users
+  - Groups
+  - Policies
+  - Roles
+
+- AWS IAM Roles
+  - Associated Permissions
+  - Allow or deny specific actions
+  - Assumed for temporary amounts of time
+  - No username or password
+  - Access to temporary permissions
+  - AWS recources
+  - Users
+  - External identities
+  - Applications
+  - Other AWS services
+
+## Lesson 41 - AWS Organizations
