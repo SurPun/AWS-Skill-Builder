@@ -27,3 +27,4 @@
 - Amazon Elastic File System (Amazon EFS)
 - Amazon Relational Database Service (Amazon RDS)
 - Amazon Database Migration Service (Amazon DMS)
+- Amazon Quantum Ledger Database(Amazon QLDB)
