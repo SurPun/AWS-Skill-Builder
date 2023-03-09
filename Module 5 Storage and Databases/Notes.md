@@ -60,3 +60,27 @@ Knowledge check:
   - Volumes do not automatically scale
 
 # Lesson 31 - Amazon Relational Database Service (Amazon RDS)
+
+- AWS Supported databases:
+  MySql
+  PostgresSQL
+  Oracle
+  Microsoft SQL Server
+
+- Amazon RDS
+  Automated patching
+  Backups
+  Redundancy
+  Filover
+  Disaster recovery
+
+- Amazon Aurora
+  MySQL
+  PostgresSQL
+  1/10th the cost of commercial databases
+  Data replication
+  Up to 15 read replicas
+  Continuous backup to Amazon S3
+  Point-in-time recovery
+
+# Lesson 32 - Amazon DynamoDB
