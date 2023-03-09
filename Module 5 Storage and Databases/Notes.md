@@ -109,3 +109,7 @@ Knowledge check:
 Amazon Redshift is a data warehousing service that you can use for big data analytics. It offers the ability to collect data from many sources and helps you to understand relationships and trends across your data.
 
 # Lesson 34 - AWS Database Migration Service
+
+Amazon Database Migration Service (Amazon DMS) enables you to migrate relational databases, nonrelational databases, and other types of data stores.
+
+# Lesson 35 - AAdditional Database Services

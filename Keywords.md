@@ -26,3 +26,4 @@
 - Amazon Simple Storage Service (Amazon S3)
 - Amazon Elastic File System (Amazon EFS)
 - Amazon Relational Database Service (Amazon RDS)
+- Amazon Database Migration Service (Amazon DMS)
