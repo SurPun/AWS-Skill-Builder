@@ -112,7 +112,7 @@ Amazon Redshift is a data warehousing service that you can use for big data anal
 
 Amazon Database Migration Service (Amazon DMS) enables you to migrate relational databases, nonrelational databases, and other types of data stores.
 
-# Lesson 35 - AAdditional Database Services
+# Lesson 35 - Additional Database Services
 
 - Amazon DocumentDB :
   is a document database service that supports MongoDB workloads. (MongoDB is a document database program.
@@ -137,7 +137,27 @@ Amazon Database Migration Service (Amazon DMS) enables you to migrate relational
 
   It supports two types of data stores: Redis and Memcached.
 
-- Amazon DynamoDB Accelerator :
+- Amazon DynamoDB Accelerator (DAX) :
   is an in-memory cache for DynamoDB.
 
   It helps improve response times from single-digit milliseconds to microseconds.
+
+# Lesson 36 - Module 5 Summary
+
+In Module 5, you learned about the following concepts:
+
+- Amazon EC2 instance store and Amazon EBS
+
+- Amazon S3
+
+- Amazon EFS
+
+- Relational databases and Amazon RDS
+
+- Nonrelational databases and DynamoDB
+
+- Amazon Redshift
+
+- AWS DMS
+
+- Additional database services and accelerators
