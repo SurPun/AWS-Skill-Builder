@@ -103,3 +103,9 @@ Knowledge check:
   The other three response options are scenarios in which you should use Amazon DynamoDB.
 
 # Lesson 33 - Amazon Redshift
+
+- Data Warehouse
+
+Amazon Redshift is a data warehousing service that you can use for big data analytics. It offers the ability to collect data from many sources and helps you to understand relationships and trends across your data.
+
+# Lesson 34 - AWS Database Migration Service
