@@ -34,3 +34,4 @@
 
 - AWS Identity and Access Management (AWS IAM)
 - Service Control Policies (SCPs)
+- Distributed denial-of-service (DDoS)

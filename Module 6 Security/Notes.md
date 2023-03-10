@@ -91,3 +91,12 @@ The other response options are incorrect because:
     Create users to enable people and applications to interact with AWS services and resources- This task can be completed in AWS Identity and Access Management (IAM).
 
     Set permissions for accounts by configuring service control policies (SCPs)- This task can be completed in AWS Organizations.
+
+## Lesson 43 - Denial-of-service-attacks
+
+- Distributed denial-of-service (DDoS) - (Group Attack)
+- Denial-of-service (DoS) - (Single Attack)
+
+AWS Shield minimizes the effect of DoS and DDoS.
+
+## Lesson 44 - Additional Security Services
