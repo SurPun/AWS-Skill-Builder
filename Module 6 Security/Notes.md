@@ -43,3 +43,24 @@ The other three response options are tasks that are the responsibility of AWS.
   - Other AWS services
 
 ## Lesson 41 - AWS Organizations
+
+- AWS Organizations
+  - A central location to manage multiple AWS accounts
+  - Centralized management
+  - Consolidated billing
+  - Hierarchial groupings
+  - AWS service and API a ctions access control
+  - Service Control Policies (SCPs)
+  - Organizational units (OUs)
+
+Knowledge Check :
+
+    - An individual member account
+
+    - An organizational unit (OU)
+
+    In AWS Organizations, you can apply service control policies (SCPs) to the organization root, an individual member account, or an OU. An SCP affects all IAM users, groups, and roles within an account, including the AWS account root user.
+
+    You can apply IAM policies to IAM users, groups, or roles. You cannot apply an IAM policy to the AWS account root user.
+
+## Lesson 42 - Compliance

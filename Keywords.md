@@ -33,3 +33,4 @@
 ## Module 6 - Security
 
 - AWS Identity and Access Management (AWS IAM)
+- Service Control Policies (SCPs)
