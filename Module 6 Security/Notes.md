@@ -55,12 +55,39 @@ The other three response options are tasks that are the responsibility of AWS.
 
 Knowledge Check :
 
+You are configuring service control policies (SCPs) in AWS Organizations. Which identities and resources can SCPs be applied to? (Select TWO.)
+
     - An individual member account
 
     - An organizational unit (OU)
 
-    In AWS Organizations, you can apply service control policies (SCPs) to the organization root, an individual member account, or an OU. An SCP affects all IAM users, groups, and roles within an account, including the AWS account root user.
+In AWS Organizations, you can apply service control policies (SCPs) to the organization root, an individual member account, or an OU. An SCP affects all IAM users, groups, and roles within an account, including the AWS account root user.
 
-    You can apply IAM policies to IAM users, groups, or roles. You cannot apply an IAM policy to the AWS account root user.
+You can apply IAM policies to IAM users, groups, or roles. You cannot apply an IAM policy to the AWS account root user.
 
 ## Lesson 42 - Compliance
+
+- GDPR
+- Health Insurance Portability and Accountability Act (HIPAA) - USA
+
+- AWS Artifact
+  is a service that provides on-demand access to AWS security and compliance reports and select online agreements. AWS Artifact consists of two main sections: AWS Artifact Agreements and AWS Artifact Reports.
+- AWS Compliance
+
+- Customer Compliance Center
+
+Knowledge Check :
+
+Which tasks can you complete in AWS Artifact? (Select TWO.)
+
+- Access AWS compliance reports on-demand.
+
+- Review, accept, and manage agreements with AWS.
+
+The other response options are incorrect because:
+
+    Consolidate and manage multiple AWS accounts within a central location- This task can be completed in AWS Organizations.
+
+    Create users to enable people and applications to interact with AWS services and resources- This task can be completed in AWS Identity and Access Management (IAM).
+
+    Set permissions for accounts by configuring service control policies (SCPs)- This task can be completed in AWS Organizations.
