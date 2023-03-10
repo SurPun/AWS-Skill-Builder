@@ -100,3 +100,16 @@ The other response options are incorrect because:
 AWS Shield minimizes the effect of DoS and DDoS.
 
 ## Lesson 44 - Additional Security Services
+
+- AWS Key Management Service (AWS KMS)
+- Secure Sockets Layer (SSL)
+
+- Amazon Inspector
+
+  - Network configuration reachability piece
+  - Amazon agent
+  - Security assessment service
+
+- Amazon GuardDuty
+
+## Lesson 45 - Module 6 Summary
