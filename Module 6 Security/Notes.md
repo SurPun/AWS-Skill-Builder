@@ -113,3 +113,15 @@ AWS Shield minimizes the effect of DoS and DDoS.
 - Amazon GuardDuty
 
 ## Lesson 45 - Module 6 Summary
+
+In Module 6, you learned about the following concepts:
+
+The shared responsibility model
+
+Features of AWS Identity and Access Management
+
+Methods of managing multiple accounts in AWS Organizations
+
+AWS compliance resources
+
+AWS services for application security and encryption
