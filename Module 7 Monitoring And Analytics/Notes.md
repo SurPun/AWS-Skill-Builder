@@ -32,3 +32,20 @@ Which tasks can you perform using AWS CloudTrail? (Select TWO.)
 The other response options are tasks that you can perform in Amazon CloudWatch.
 
 ## Lesson 50 - AWS Trusted Advisor
+
+    AWS Trusted Advisor
+        - Cost optimization
+        - Performance
+        - Security
+        - Fault tolerance
+        - Service limits
+
+## Lesson 51 - Module 7 Summary
+
+In Module 7, you learned about the following concepts:
+
+- Amazon CloudWatch
+
+- AWS CloudTrail
+
+- AWS Trusted Advisor
