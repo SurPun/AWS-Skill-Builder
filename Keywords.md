@@ -11,7 +11,7 @@
 - Amazon SQS (Amazon Simple Queue Service)
 - Amazon SNS (Amazon Notification Service)
 
-# Module 3 - Global Infrastructure And Reliability
+# Module 3 - Global Infrastructure and Reliability
 
 - Content Delivery Network (CDN)
 
@@ -36,3 +36,9 @@
 - Service Control Policies (SCPs)
 - Distributed denial-of-service (DDoS)
 - AWS Key Management Service (AWS KMS)
+
+## Module 7 - Monitoring and Analytics
+
+- Mean time to resolution (MTTR)
+
+## Module 8 - Pricing and Support
