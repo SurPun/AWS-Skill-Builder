@@ -55,3 +55,21 @@ Pay less with volume-based discounts when you use more.
     Some services offer tiered pricing, so the per-unit cost is incrementally lower with increased usage.
 
     For example, the more Amazon S3 storage space you use, the less you pay for it per GB.
+
+## Lesson 56 - Billing dashboard
+
+AWS Billing & Cost Management dashboard
+
+    - Compare your current month-to-date balance with the previous month, and get a forecast of the next month based on current usage.
+
+    - View month-to-date spend by service.
+
+    - View Free Tier usage by service.
+
+    - Access Cost Explorer and create budgets.
+
+    - Purchase and manage Savings Plans.
+
+    - Publish AWS Cost and Usage Reports.
+
+## Lesson 57 - Consolidated billing
