@@ -84,3 +84,21 @@ Knowledge check :
         Replatforming involves selectively optimizing aspects of an application to achieve benefits in the cloud without changing the core architecture of the application. It is also known as “lift, tinker, and shift.”
 
 ## Lesson 67 - AWS Snow Family
+
+The AWS Snow Family is a collection of physical devices that help to physically transport up to exabytes of data into and out of AWS.
+
+AWS Snowcone
+
+AWS Snowball Edge
+
+AWS Snowmobile
+
+Knowledge check :
+
+What is the storage capacity of Snowball Edge Storage Optimized?
+
+    80 TB.
+
+    Snowball Edge Storage Optimized is a device that enables you to transfer large amounts of data into and out of AWS. It provides 80 TB of usable HDD storage.
+
+## Lesson 68 - Innovation with AWS
