@@ -45,3 +45,7 @@
 
 - Service level agreement (SLA)
 - Technical Account Manager (TAM)
+
+## Module 9 - Migration and Innovation
+
+- AWS Cloud Adoption Framework (AWS CAF)
