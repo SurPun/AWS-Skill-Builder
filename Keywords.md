@@ -50,3 +50,7 @@
 
 - AWS Cloud Adoption Framework (AWS CAF)
 - Amazon Augmented AI (Amazon A2I)
+
+## Module 10 - The Cloud Journey
+
+-
