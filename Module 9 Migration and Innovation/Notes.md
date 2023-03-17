@@ -52,3 +52,35 @@ Which Perspective of the AWS Cloud Adoption Framework helps you design, implemen
         The People Perspective helps Human Resources (HR) employees prepare their teams for cloud adoption by updating organizational processes and staff skills to include cloud-based competencies.
 
 ## Lesson 66 - Migration Strategies
+
+6 R's :
+
+    Rehosting
+
+    Replatforming
+
+    Retire
+
+    Retain
+
+    Repurchasing
+
+    Refactoring/re-architecting
+
+Knowledge check :
+
+    Which migration strategy involves moving to a different product?
+
+    Repurchasing.
+
+    Repurchasing involves replacing an existing application with a cloud-based version, such as software found in AWS Marketplace.
+
+    The other response options are incorrect because:
+
+        Refactoring involves changing how an application is architected and developed, typically by using cloud-native features.
+
+        Retiring involves removing an application that is no longer used or that can be turned off.
+
+        Replatforming involves selectively optimizing aspects of an application to achieve benefits in the cloud without changing the core architecture of the application. It is also known as “lift, tinker, and shift.”
+
+## Lesson 67 - AWS Snow Family
