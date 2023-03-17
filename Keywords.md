@@ -53,4 +53,4 @@
 
 ## Module 10 - The Cloud Journey
 
--
+## Module 11 - AWS Certified Cloud Practitioner Basics
