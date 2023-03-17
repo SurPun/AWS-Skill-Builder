@@ -73,3 +73,11 @@ AWS Billing & Cost Management dashboard
     - Publish AWS Cost and Usage Reports.
 
 ## Lesson 57 - Consolidated billing
+
+Consolidated billing
+
+    - Simplifies billing process
+    - Share savings across accounts
+    - Free feature
+
+## Lesson 58 - AWS Budgets
