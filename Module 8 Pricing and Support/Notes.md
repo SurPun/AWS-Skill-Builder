@@ -89,3 +89,9 @@ The information in AWS Budgets updates three times a day. This helps you to accu
 In AWS Budgets, you can also set custom alerts when your usage exceeds (or is forecasted to exceed) the budgeted amount.
 
 ## Lesson 59 AWS Cost Explorer
+
+AWS Cost Explorer is a tool that enables you to visualize, understand, and manage your AWS costs and usage over time.
+
+AWS Cost Explorer includes a default report of the costs and usage for your top five cost-accruing AWS services. You can apply custom filters and groups to analyze your data. For example, you can view resource usage at the hourly level.
+
+## Lesson 60 AWS Support Plans
