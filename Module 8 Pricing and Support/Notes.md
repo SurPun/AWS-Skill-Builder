@@ -139,3 +139,15 @@ Knowledge check:
     Only the Business, Enterprise On-Ramp, and Enterprise Support plans include all AWS Trusted Advisor checks. Of these three Support plans, the Business Support plan has a lower cost.
 
 ## Lesson 61 AWS Marketplace
+
+Enterprise focused features
+
+    Custom terms and pricing
+
+    A private marketplace
+
+    Integration into your procurement systems
+
+    Cost management tools
+
+## Lesson 62 Module 8 Summary
