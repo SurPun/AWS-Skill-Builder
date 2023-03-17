@@ -102,3 +102,47 @@ What is the storage capacity of Snowball Edge Storage Optimized?
     Snowball Edge Storage Optimized is a device that enables you to transfer large amounts of data into and out of AWS. It provides 80 TB of usable HDD storage.
 
 ## Lesson 68 - Innovation with AWS
+
+VMWare Cloud on AWS
+
+Amazon SageMaker
+
+Amazon Augmented AI (Amazon A2I)
+
+Amazon Lex
+
+Amazon Textract
+
+AWS DeepRacer
+
+Internet of Things (IOT)
+
+AWS Ground Station
+
+Knowledge check :
+
+    Which service enables you to quickly build, train, and deploy machine learning models?
+
+    Amazon SageMaker.
+
+    With Amazon SageMaker, you can quickly and easily begin working on machine learning projects. You do not need to follow the traditional process of manually bringing together separate tools and workflows.
+
+    The other response options are incorrect because:
+
+        Amazon Textract is a machine learning service that automatically extracts text and data from scanned documents.
+
+        Amazon Lex is a service that enables you to build conversational interfaces using voice and text.
+
+        AWS DeepRacer is an autonomous 1/18 scale race car that you can use to test reinforcement learning models.
+
+## Lesson 69 - Module 9 Summary
+
+In Module 9, you learned about the following concepts:
+
+    The AWS Cloud Adoption Framework
+
+    The six strategies for migration
+
+    The AWS Snow Family
+
+    Innovation with AWS services

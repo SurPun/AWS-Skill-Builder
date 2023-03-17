@@ -49,3 +49,4 @@
 ## Module 9 - Migration and Innovation
 
 - AWS Cloud Adoption Framework (AWS CAF)
+- Amazon Augmented AI (Amazon A2I)
