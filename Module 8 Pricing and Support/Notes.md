@@ -95,3 +95,47 @@ AWS Cost Explorer is a tool that enables you to visualize, understand, and manag
 AWS Cost Explorer includes a default report of the costs and usage for your top five cost-accruing AWS services. You can apply custom filters and groups to analyze your data. For example, you can view resource usage at the hourly level.
 
 ## Lesson 60 AWS Support Plans
+
+Basic Support
+
+    - 24/7 Customer Service
+    - Documentation
+    - Whitepapers
+    - Support Fourms
+    - AWS Trusted Advisor
+    - AWS Personal Health Dashboard
+
+Developer Support
+
+    - Basic support
+    - Email access to customer support
+
+Business Support
+
+    - Basic and Developer support
+    - AWS Trusted Advisor provides full set of best practice checks
+    - Direct phone access to cloud support engineers
+    - Infrastructure event management
+
+Enterprise Support
+
+    - Basic, Developer and Business support
+    - 15-minute SLA for business critical workloads
+    - Technical Account Manager (TAM)
+        Job:
+        - Five pillars of the Well-Architected Framework:
+            - Operational Excellence
+            - Security
+            - Reliability
+            - Performance Efficiency
+            - Cost Optimization
+
+Knowledge check:
+
+    Which Support plan includes all AWS Trusted Advisor checks at the lowest cost?
+
+    Business.
+
+    Only the Business, Enterprise On-Ramp, and Enterprise Support plans include all AWS Trusted Advisor checks. Of these three Support plans, the Business Support plan has a lower cost.
+
+## Lesson 61 AWS Marketplace

@@ -42,3 +42,6 @@
 - Mean time to resolution (MTTR)
 
 ## Module 8 - Pricing and Support
+
+- Service level agreement (SLA)
+- Technical Account Manager (TAM)
