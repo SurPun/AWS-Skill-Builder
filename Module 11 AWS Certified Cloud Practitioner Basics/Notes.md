@@ -39,3 +39,5 @@ Which domains are included on the AWS Certified Cloud Practitioner exam? (Select
     The other three response options are domains that are included on the AWS Certified SysOps Administrator – Associate exam.
 
 ## Lesson 79 - Final Assessment
+
+QUIZ
