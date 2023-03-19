@@ -71,3 +71,75 @@
         Amazon Quantum Ledger Database (Amazon QLDB) is a ledger database service. You can use Amazon QLDB to review a complete history of all the changes that have been made to your application data.
 
         AWS Snowball is a device that enables you to transfer large amounts of data into and out of AWS.
+
+6.  Which AWS Trusted Advisor category includes checks for high-utilization EC2 instances?
+
+    Performance.
+
+    In this category, AWS Trusted Advisor also helps improve the performance of your services by providing recommendations for how to take advantage of provisioned throughput.
+
+    The other response options are incorrect because:
+
+        The Security category includes checks that help you to review your permissions and identify which AWS security features to enable.
+
+        The Cost Optimization category includes checks for unused or idle resources that could be eliminated and provide cost savings.
+
+        The Fault Tolerance category includes checks to help you improve your applications’ availability and redundancy.
+
+7.  Which service enables you to consolidate and manage multiple AWS accounts from a central location?
+
+    AWS Organizations.
+
+    In AWS Organizations, you can centrally control permissions for the accounts in your organization by using service control policies (SCPs). Additionally, you can use the consolidated billing feature in AWS Organizations to combine usage and receive a single bill for multiple AWS accounts.
+
+    The other response options are incorrect because:
+
+        AWS Identity and Access Management (IAM) is a service that you can use to manage access to AWS services and resources.
+
+        AWS Artifact is a service that enables you to access AWS security and compliance reports and special online agreements.
+
+        AWS Key Management Service (AWS KMS) enables you to create, manage, and use cryptographic keys.
+
+8.  You are running an Amazon EC2 instance and want to store data in an attached resource. Your data is temporary and will not be kept long term. Which resource should you use?
+
+    Instance store.
+
+    Instance stores are ideal for temporary data that does not need to be kept long term.
+
+    When an Amazon EC2 instance is stopped or terminated, all the data that has been written to the attached instance store is deleted.
+
+    The other response options are incorrect because:
+
+        Amazon EBS volumes are ideal for data that needs to be retained. When an Amazon EC2 instance is stopped or terminated, all of the data on the attached EBS volume is still available.
+
+        Amazon S3 buckets cannot be attached to Amazon EC2 instances.
+
+        A subnet is a section of a virtual private cloud (VPC) in which you can group resources based on security or operational needs.
+
+9.  Which statement best describes Elastic Load Balancing?
+
+    A service that distributes incoming traffic across multiple targets, such as Amazon EC2 instances.
+
+    A load balancer acts as a single point of contact for all incoming web traffic to your Auto Scaling group. This means that as Amazon EC2 instances are added or removed in response to the amount of incoming traffic, these requests are routed to the load balancer first and then spread across multiple resources that will handle them.
+
+    The other response options are incorrect because:
+
+        A service that monitors your applications and automatically adds or removes capacity from your resource groups in response to changing demand - This response option describes AWS Auto Scaling.
+
+        A service that provides data that you can use to monitor your applications, optimize resource utilization, and respond to system-wide performance changes - This response option describes Amazon CloudWatch. Although Elastic Load Balancing does optimize resource utilization by distributing incoming traffic across available resources, this would not be the best response option because Elastic Load Balancing does not provide all the other listed features.
+
+        A service that enables you to set up, manage, and scale a distributed in-memory or cache environment in the cloud - This response option describes Amazon ElastiCache.
+
+10. Which service is used to transfer up to 100 PB of data to AWS?
+
+    AWS Snowmobile.
+
+    AWS Snowmobile is a service that is used for transferring up to 100 PB of data to AWS. Each Snowmobile is a 45-foot long shipping container that is pulled by a semi-trailer truck.
+
+    The other response options are incorrect because:
+
+        Amazon Neptune is a graph database service. You can use Amazon Neptune to build and run applications that work with highly connected datasets, such as recommendation engines, fraud detection, and knowledge graphs.
+
+        Amazon CloudFront is a content delivery service.
+
+        AWS DeepRacer is an autonomous 1/18 scale race car that you can use to test reinforcement learning models.
