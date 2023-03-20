@@ -272,3 +272,75 @@ The other response options are incorrect because:
         AWS Lambda is a service that lets you run code without provisioning or managing servers.
 
         Amazon ElastiCache is a service that adds caching layers on top of your databases to help improve the read times of common requests.
+
+21. Which pillar of the AWS Well-Architected Framework focuses on using computing resources in ways that meet system requirements?
+
+    Performance Efficiency.
+
+    The Performance Efficiency pillar focuses on using computing resources efficiently to meet system requirements, and to maintain that efficiency as demand changes and technologies evolve.
+
+    The other responses are incorrect because:
+
+        The Operational Excellence pillar includes the ability to run workloads effectively, gain insights into their operations, and continuously improve supporting processes to deliver business value.
+
+        The Security pillar focuses on protecting data, systems, and assets. It also focuses on using cloud technologies to improve the security of your workloads.
+
+        The Reliability pillar focuses on the ability of a workload to consistently and correctly perform its intended functions.
+
+22. Which service enables you to build the workflows that are required for human review of machine learning predictions?
+
+    Amazon Augmented AI.
+
+    Amazon Augmented AI (Amazon A2I) provides built-in human review workflows for common machine learning use cases, such as content moderation and text extraction from documents. With Amazon A2I, you can also create your own workflows for machine learning models built on Amazon SageMaker or any other tools.
+
+    The other response options are incorrect because:
+
+        Amazon Textract is a machine learning service that automatically extracts text and data from scanned documents.
+
+        Amazon Lex is a service that enables you to build conversational interfaces using voice and text.
+
+        Amazon Aurora is an enterprise-class relational database.
+
+23. Which action can you perform in Amazon CloudFront?
+
+    Deliver content to customers through a global network of edge locations.
+
+    Amazon CloudFront is a content delivery service.
+
+    It uses a network of edge locations to cache content and deliver content to customers all over the world. When content is cached, it is stored locally as a copy. This content might be video files, photos, webpages, and so on.
+
+    The other response options are incorrect because:
+
+        Run infrastructure in a hybrid cloud approach - This action can be performed with AWS Outposts.
+
+        Provision resources by using programming languages or a text file - This action can be performed in AWS CloudFormation.
+
+        Provision an isolated section of the AWS Cloud to launch resources in a virtual network that you define - This action can be performed in Amazon Virtual Private Cloud (Amazon VPC).
+
+24. Which statement best describes Amazon GuardDuty?
+
+    A service that provides intelligent threat detection for your AWS infrastructure and resources.
+
+    AWS GuardDuty identifies threats by continually monitoring the network activity and account behavior within your AWS environment.
+
+    The other response options are incorrect because:
+
+        A service that helps protect your applications against distributed denial-of-service (DDoS) attacks - This response option describes AWS Shield.
+
+        A service that checks applications for security vulnerabilities and deviations from security best practices - This response option describes Amazon Inspector.
+
+        A service that lets you monitor network requests that come into your web applications - This response option describes AWS WAF.
+
+25. Which tool enables you to visualize, understand, and manage your AWS costs and usage over time?
+
+    AWS Cost Explorer.
+
+    With AWS Cost Explorer, you can quickly create custom reports to analyze your AWS cost and usage data.
+
+    The other response options are incorrect because:
+
+        AWS Budgets lets you set custom alerts that will notify you when your service usage exceeds (or is forecasted to exceed) the amount that you have budgeted.
+
+        AWS Pricing Calculator lets you explore AWS services and create an estimate for the cost of your use cases on AWS. In the AWS Pricing Calculator, you can enter details for your cloud computing requirements and then receive a detailed estimate that can be exported and shared.
+
+        AWS Artifact is a service that enables you to access AWS security and compliance reports and special online agreements.
