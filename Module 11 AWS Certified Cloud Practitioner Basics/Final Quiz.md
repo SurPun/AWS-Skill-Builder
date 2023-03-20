@@ -208,3 +208,67 @@ The other response options are incorrect because:
         Configuring AWS infrastructure devices
 
         The other three response options are tasks that are the responsibilities of customers.
+
+16. In the S3 Intelligent-Tiering storage class, Amazon S3 moves objects between a frequent access tier and an infrequent access tier. Which storage classes are used for these tiers? (Select TWO.)
+
+    Amazon S3 Standard
+
+    Amazon S3 Standard-IA
+
+    In the Amazon S3 Intelligent-Tiering storage class, Amazon S3 monitors objects’ access patterns. If you haven’t accessed an object for 30 consecutive days, Amazon S3 automatically moves it to the infrequent access tier, Amazon S3 Standard-IA. If you access an object in the infrequent access tier, Amazon S3 automatically moves it to the frequent access tier, Amazon S3 Standard.
+
+17. Which service enables you to review details for user activities and API calls that have occurred within your AWS environment?
+
+    AWS CloudTrail.
+
+    With CloudTrail, you can view a complete history of user activity and API calls for your applications and resources.
+
+    Events are typically updated in CloudTrail within 15 minutes after an API call was made. You can filter events by specifying the time and date that an API call occurred, the user who requested the action, the type of resource that was involved in the API call, and more.
+
+    The other response options are incorrect because:
+
+        Amazon CloudWatch is a service that provides data that you can use to monitor your applications, optimize resource utilization, and respond to system-wide performance changes.
+
+        Amazon Inspector is a service that checks applications for security vulnerabilities and deviations from security best practices.
+
+        AWS Trusted Advisor is an online tool that inspects your AWS environment and provides real-time guidance in accordance with AWS best practices.
+
+18. Which statement is TRUE for AWS Lambda?
+
+    You pay only for compute time while your code is running.
+
+    AWS Lambda is a service that lets you run code without needing to provision or manage servers.
+
+    While using AWS Lambda, you pay only for the compute time that you consume. You are charged only when your code is running. With AWS Lambda, you can run code for virtually any type of application or backend service, all with zero administration.
+
+19. Which actions can you perform in Amazon Route 53? (Select TWO.)
+
+    Connect user requests to infrastructure in AWS and outside of AWS.
+
+    Manage DNS records for domain names.
+
+    Amazon Route 53 is a DNS web service. It gives developers and businesses a reliable way to route end users to internet applications that are hosted in AWS.
+
+    Additionally, you can transfer DNS records for existing domain names that are currently managed by other domain registrars, or register new domain names directly within Amazon Route 53.
+
+    The other response options are incorrect because:
+
+        Monitor your applications and respond to system-wide performance changes - These actions can be performed in Amazon CloudWatch.
+
+        Access AWS security and compliance reports and special online agreements - This action can be performed in AWS Artifact.
+
+        Automate the deployment of workloads into your AWS environment - This action can be performed with AWS Quick Starts.
+
+20. You want to store data in a volume that is attached to an Amazon EC2 instance. Which service should you use?
+
+    Amazon Elastic Block Store (Amazon EBS).
+
+    Amazon EBS provides block-level storage volumes that you can use with Amazon EC2 instances. If you stop or terminate an Amazon EC2 instance, all the data on the attached EBS volume remains available.
+
+    The other response options are incorrect because:
+
+        Amazon Simple Storage Service (Amazon S3) is a service that provides object-level storage. Amazon S3 stores data as objects within buckets.
+
+        AWS Lambda is a service that lets you run code without provisioning or managing servers.
+
+        Amazon ElastiCache is a service that adds caching layers on top of your databases to help improve the read times of common requests.
