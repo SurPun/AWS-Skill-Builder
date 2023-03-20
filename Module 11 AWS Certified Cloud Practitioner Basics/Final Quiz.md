@@ -143,3 +143,68 @@
         Amazon CloudFront is a content delivery service.
 
         AWS DeepRacer is an autonomous 1/18 scale race car that you can use to test reinforcement learning models.
+
+11. You want to store data in a key-value database. Which service should you use?
+
+    Amazon DynamoDB.
+
+    Amazon DynamoDB is a key-value database service. A key-value database might include data pairs such as “Name: John Doe,” “Address: 123 Any Street,” and “City: Anytown”.
+
+    In a key-value database, you can add or remove attributes from items in the table at any time. Additionally, not every item in the table has to have the same attributes.
+
+    The other response options are incorrect because:
+
+        Amazon Relational Database Service (Amazon RDS) and Amazon Aurora use structured query language (SQL) to store and query data. They are not key-value databases.
+
+        Amazon DocumentDB is a document database service that supports MongoDB workloads.
+
+12. Which component or service enables you to establish a dedicated private connection between your data center and virtual private cloud (VPC)?
+
+    AWS Direct Connect.
+
+    AWS Direct Connect is a service that enables you to establish a dedicated private connection between your data center and VPC.
+
+    The private connection that AWS Direct Connect provides helps you to reduce network costs and increase the amount of bandwidth that can travel through your network.
+
+    The other response options are incorrect because:
+
+        Amazon CloudFront is a content delivery service. It uses a network of edge locations to cache content and deliver content to customers all over the world.
+
+        A virtual private gateway enables you to establish a virtual private network (VPN) connection between your VPC and a private network, such as an on-premises data center or internal corporate network. A virtual private gateway allows traffic into the VPC only if it is coming from an approved network.
+
+        An internet gateway is a connection between a VPC and the internet. It allows public traffic from the internet to access a VPC.
+
+13. Which migration strategy involves changing how an application is architected and developed, typically by using cloud-native features?
+
+    Refactoring.
+
+    The other response options are incorrect because:
+
+        Repurchasing involves replacing an existing application with a cloud-based version, such as software found in AWS Marketplace.
+
+        Rehosting involves moving an application to the cloud with little to no modifications to the application itself. It is also known as “lift and shift.”
+
+        Replatforming involves selectively optimizing aspects of an application to achieve benefits in the cloud without changing the core architecture of the application. It is also known as “lift, tinker, and shift.”
+
+14. You want Amazon S3 to monitor your objects’ access patterns. Which storage class should you use?
+
+    Amazon S3 Intelligent-Tiering.
+
+In the Amazon S3 Intelligent-Tiering storage class, Amazon S3 monitors objects’ access patterns. If you haven’t accessed an object for 30 consecutive days, Amazon S3 automatically moves it to the infrequent access tier, Amazon S3 Standard-IA. If you access an object in the infrequent access tier, Amazon S3 automatically moves it to the frequent access tier, Amazon S3 Standard.
+
+The other response options are incorrect because:
+
+    Amazon S3 Glacier Flexible Retrieval is a low-cost storage class that is ideal for data archiving. You can retrieve objects stored in the Amazon S3 Glacier Flexible Retrieval storage class within a few minutes to a few hours.
+
+    The Amazon S3 Standard-IA storage class is ideal for data that is infrequently accessed but requires high availability when needed. Both Amazon S3 Standard and Amazon S3 Standard-IA store data in a minimum of three Availability Zones.
+
+    Amazon S3 Standard-IA provides the same level of availability as Amazon S3 Standard but at a lower storage price.
+    Amazon S3 One Zone-IA is ideal for infrequently accessed data that does not require high availability.
+
+15. Which tasks are the responsibilities of AWS? (Select TWO.)
+
+        Maintaining virtualization infrastructure
+
+        Configuring AWS infrastructure devices
+
+        The other three response options are tasks that are the responsibilities of customers.
