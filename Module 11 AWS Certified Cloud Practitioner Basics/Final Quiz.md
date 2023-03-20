@@ -344,3 +344,78 @@ The other response options are incorrect because:
         AWS Pricing Calculator lets you explore AWS services and create an estimate for the cost of your use cases on AWS. In the AWS Pricing Calculator, you can enter details for your cloud computing requirements and then receive a detailed estimate that can be exported and shared.
 
         AWS Artifact is a service that enables you to access AWS security and compliance reports and special online agreements.
+
+26. Which statement best describes AWS Marketplace?
+
+    A digital catalog that includes thousands of listings from independent software vendors.
+
+    You can use AWS Marketplace to find, test, and buy software that runs on AWS.
+
+    The other response options are incorrect because:
+
+        A resource that can answer questions about best practices and assist with troubleshooting issues - This response option describes AWS Support.
+
+        A resource that provides guidance, architectural reviews, and ongoing communication with your company as you plan, deploy, and optimize your applications - This response option describes a Technical Account Manager (TAM).
+
+        An online tool that inspects your AWS environment and provides real-time guidance in accordance with AWS best practices - This response option describes AWS Trusted Advisor.
+
+27. Which Perspective of the AWS Cloud Adoption Framework focuses on recovering IT workloads to meet the requirements of your business stakeholders?
+
+    Operations Perspective.
+
+    The Operations Perspective of the AWS Cloud Adoption Framework also includes principles for operating in the cloud by using agile best practices.
+
+    The other response options are incorrect because:
+
+        The Business Perspective helps you to move from a model that separates business and IT strategies into a business model that integrates IT strategy.
+
+        The People Perspective helps Human Resources (HR) employees prepare their teams for cloud adoption by updating organizational processes and staff skills to include cloud-based competencies.
+
+        The Governance Perspective helps you understand how to update the staff skills and organizational processes that are necessary to ensure business governance in the cloud.
+
+28. You want to send and receive messages between distributed application components. Which service should you use?
+
+    Amazon Simple Queue Service (Amazon SQS).
+
+    Amazon SQS is a message queuing service. Using Amazon SQS, you can send, store, and receive messages between software components at any volume size, without losing messages or requiring other services to be available.
+
+    In Amazon SQS, an application sends messages into a queue. A user or service retrieves a message from the queue, processes it, and then deletes it from the queue.
+
+    The other response options are incorrect because:
+
+        AWS Snowball is a device that enables you to transfer large amounts of data into and out of AWS.
+
+        Amazon ElastiCache is a service that adds caching layers on top of your databases to help improve the read times of common requests.
+
+        Amazon Route 53 is a DNS web service. It gives developers and businesses a reliable way to route end users to internet applications that are hosted in AWS. Additionally, you can transfer DNS records for existing domain names that are currently managed by other domain registrars or register new domain names directly in Amazon Route 53.
+
+29. Which virtual private cloud (VPC) component controls inbound and outbound traffic for Amazon EC2 instances?
+
+    Security group.
+
+    A security group is a virtual firewall that controls inbound and outbound traffic for an Amazon EC2 instance.
+
+    By default, a security group denies all inbound traffic and allows all outbound traffic. You can add custom rules to configure which traffic should be allowed or denied.
+
+    The other response options are incorrect because:
+
+        A subnet is a section of a VPC in which you can group resources based on security or operational needs.
+
+        A network access control list (ACL) is a virtual firewall that controls inbound and outbound traffic at the subnet level.
+
+        An internet gateway is a connection between a VPC and the internet. It allows public traffic from the internet to access a VPC.
+
+30. Which compute option reduces costs when you commit to a consistent amount of compute usage for a 1-year or 3-year term?
+
+    Savings Plans.
+
+    Amazon EC2 Savings Plans enable you to reduce your compute costs by committing to a consistent amount of compute usage for a 1-year or 3-year term. This results in savings of up to 72% over On-Demand Instance costs. Any usage up to the commitment is charged at the discounted Savings Plan rate (for example, $10 an hour). Any usage beyond the commitment is charged at regular On-Demand Instance rates.
+
+    The other response options are incorrect because:
+
+        Reserved Instances are a billing discount that is applied to the use of On-Demand Instances in your account. You can purchase Standard Reserved and Convertible Reserved Instances for a one-year or three-year term, and Scheduled Reserved Instances for a one-year term. Unlike Savings Plans, Reserved Instances do not require you to commit to a consistent amount of compute usage over the duration of the contract.
+
+        Spot Instances are ideal for workloads with flexible start and end times or that can withstand interruptions. Spot Instances leverage unused EC2 computing capacity and offer you cost savings at up to 90% of On-Demand Instance prices.
+
+        Dedicated Hosts are physical servers with EC2 instance capacity that is fully dedicated to your use.
+        You can use your existing per-socket, per-core, or per-VM software licenses to help maintain license compliance. You can purchase On-Demand Dedicated Hosts or Reserved Dedicated Hosts. Of all the Amazon EC2 options that were covered in this course, Dedicated Hosts are the most expensive.
