@@ -38,3 +38,31 @@ The shared responsibility model of AWS is a security framework that defines the 
   The DevOps Administrator manages developers and optimizes the AWS Cloud for faster and larger scale operations. They create and maintain processes for small, rapid releases and manage the release cycle to evaluate, test, and push changes to production. They conduct tests, back out changes if necessary, and are proficient in programming scripting languages, operations, QA, and testing.
 
 ## Lesson 6 - Map On-Premises Job Roles in the Cloud
+
+In this lesson, you will explore how on-premises job roles compare to AWS Cloud job roles.
+
+## Lesson 7 - Grow AWS Cloud Competencies
+
+In this lesson, you will identify ways to develop AWS Cloud competencies for on-premises IT job roles.
+
+## Lesson 8 - Knowledge Check
+
+1. Which Cloud job role must be proficient with configuration management and changes?
+
+   The System Administrator must be proficient with configuration management and changes.
+
+2. Which Cloud job role must be proficient with programming scripting languages?
+
+   The DevOps Administrator must be proficient with programming scripting languages.
+
+3. Which Cloud job role is the AWS Cloud Subject Matter Expert (SME) for your business?
+
+   The Cloud Architect is the AWS Cloud SME for your business.
+
+4. Which on-premises IT job role maps to the AWS Cloud Architect job role?
+
+   The IT Solutions Architect maps to the AWS Cloud Architect job role.
+
+5. Which Cloud job role oversees database and developer teams?
+
+   The DevOps Administrator oversees database and developer teams.
