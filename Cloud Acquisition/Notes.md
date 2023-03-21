@@ -27,3 +27,63 @@ When you buy cloud technologies, it is important that you understand what you ar
 CSPs can help you understand cloud acquisition best practices, and you should consider engaging them early to harness the full benefits of the cloud.
 
 - CSPs are not responsible for requirements analysis and solution design.
+
+## Key Aspects of Procurement
+
+- What are the key areas of procurement that affect how cloud is bought? (Select THREE.)
+
+  Pricing
+
+  Security
+
+  Terms and Conditions
+
+We will highlight four key areas that affect how cloud is bought:
+
+    - Pricing
+
+    - Security
+
+    - Governance
+
+    - Terms abd Conditions
+
+## Pricing
+
+Use a pay-as-you-go model with on-demand, utility-like pricing
+
+Have no upfront costs
+
+Are not required to make a long-term financial commitment
+
+## Security
+
+Customer & AWS Responsibility...
+
+## Data Sovereignty and Data Residency
+
+## Sustainability
+
+## Governance and Operationalization
+
+## Terms and Conditions
+
+## Key Aspects of Procurement: Summary
+
+Six key areas affect how cloud is bought: pricing, security, data residency, sustainability, governance, and terms and conditions. If you don’t fully understand these areas, it can prevent you from getting the full benefits of the cloud.
+
+Here are some takeaways when it comes to the key aspects of procurement:
+
+    Cloud pricing is variable. It increases and decreases over time based on vendor pricing—it is not specific to customers.
+
+    You should assess the security and resiliency of the AWS physical infrastructure by using third-party attestations rather than requiring that you audit and assess these elements. Using these existing resources prevents overly burdensome processes and duplication.
+
+    It is important to understand data sovereignty and data residency early on to ensure that you can maximize the benefits of the AWS Cloud offering.
+
+    Any analysis on the climate impact of a data center should consider resource usage and energy efficiency, in addition to power mix. Large-scale CSPs use a power mix that is 28 percent less carbon intense than the global average.
+
+    You need to consider cloud governance in order to successfully operationalize your environment, which should be considered well in advance of a procurement. Because you maintain control over your data, as part of any acquisition strategy, you should assess the CSP’s capabilities to meet your cloud governance needs.
+
+    Cloud terms and conditions are designed to reflect how a cloud services model functions (physical assets are not being purchased). CSPs operate at a massive one-to-many scale to offer standardized services and cannot customize services for individual customer requirements. It is therefore critical that you engage CSPs early to incorporate and use their terms to the fullest extent possible.
+
+## Working with the AWS Partner Network
