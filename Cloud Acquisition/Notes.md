@@ -87,3 +87,59 @@ Here are some takeaways when it comes to the key aspects of procurement:
     Cloud terms and conditions are designed to reflect how a cloud services model functions (physical assets are not being purchased). CSPs operate at a massive one-to-many scale to offer standardized services and cannot customize services for individual customer requirements. It is therefore critical that you engage CSPs early to incorporate and use their terms to the fullest extent possible.
 
 ## Working with the AWS Partner Network
+
+## Working with Partners: Summary
+
+The AWS Partner Network can provide a wide range of value and support. Consider the APN and what it can offer as part of any potential acquisition.
+
+Here are some key takeaways when it comes to working with the APN:
+
+    Go to the APN webpage to see how AWS Partners can help you build successful solutions based on AWS.
+
+    It is important to engage your AWS sales representative early and often to ensure that you are able to assess and select Partners who can help you meet your requirements.
+
+    The APN is the global Partner program for technology and consulting businesses who use AWS to build solutions and services for customers.
+
+    The AWS Partners are uniquely positioned to help you accelerate your journey to the cloud and take full advantage of all that AWS has to offer. Partners can help you identify solutions and build, deploy, or migrate to AWS.
+
+- Buying directly from AWS is sometimes the best solution to meet your requirements.
+
+## Answering Common Procurement Questions
+
+## Talking about Migrations
+
+## Making It Real: Summary
+
+In the Making It Real section, we covered examples of AWS and our APN global procurement vehicles, common procurement questions and answers, and migrations.
+
+Here are some key takeaways:
+
+    Customers should consider creating a one-organization cloud migration roadmap to provide clear and actionable guidance for each step of their cloud migration journey.
+
+    There are different ways that AWS can help you migrate, such as AWS CAF or CART, or you can use one of our Migration Competency Partners.
+
+## Knowledge Assessment
+
+1. Whom should a customer buy from if they want help to migrate, run, and optimize their cloud workloads?
+
+   An AWS Partner who can work with the customer to design, build, run, and optimize their cloud environment
+
+2. Which best describes what customers buy when they purchase cloud?
+
+   Access to standardized compute, storage, database, and other IT services, which run in a cloud service provider’s data centers
+
+3. Who should be engaged in a customer’s organization to help ensure successful cloud adoption?
+
+   All stakeholders, such as Policy, IT, Procurement, HR and Training, Legal, Security and Compliance
+
+4. Which best describes cloud pricing?
+
+   Variable, with no upfront costs or required commitments
+
+5. Which best describes the cloud security shared responsibility model?
+
+   Cloud service providers are responsible for security of the cloud, and customers are responsible for security in the cloud.
+
+6. Which best describes how a customer should incorporate cloud-friendly terms and conditions into an RFx process?
+
+   Engage cloud service providers early to get the best fit. Resolve differences, incorporate, and use the cloud service provider’s terms to the fullest extent possible to avoid misalignment.
