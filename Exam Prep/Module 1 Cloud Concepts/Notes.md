@@ -44,8 +44,32 @@ Identity which operations will reduce costs by moving to the cloud.
 
         Managed services
 
-## Aspects of AWS Cloud Economics: Question
+## Aspects of AWS Cloud Economics Question
 
 1. Which on-premises expense will be reduced if the company migrates their application to Amazon EC2?
 
    - Server hardware costs
+
+## Cloud Architecture Design Principles
+
+Cloud architecture design principles:
+
+    Design for failure.
+
+    Decouple components vs. monolithic architecture.
+
+    Implement elasticity in the cloud vs. on-premises.
+
+    Think parallel.
+
+- Design for failure: Understanding what and how components fail, and how to architect around failures to add resiliency
+
+## Cloud Architecture Design Principles Question
+
+1. Which of the following is an AWS Cloud architecture design principle?
+
+   - Implement loose coupling
+
+## Domain Notes Cloud Concepts
+
+## Cloud Concepts: Close
