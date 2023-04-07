@@ -55,3 +55,47 @@ Documentation of Learnings...
     13. What is NOT authorized to do on AWS according to the AWS Acceptable Use Policy?
 
         - (Run analytics on stolen content) You can run analytics on AWS, but you cannot run analytics on fraudulent content. Refer to the AWS Acceptable Use Policy to see what is not authorized to do on AWS.
+
+## IAM
+
+    1. What is a proper definition of IAM Roles?
+
+        - An IAM entity that defines a set of permissions for making AWS service requests, that will be used by AWS services.
+
+        Some AWS service will need to perform actions on your behalf. To do so, you assign permissions to AWS services with IAM Roles.
+
+    2. Which of the following is an IAM Security Tool?
+
+        - IAM Credentials Report
+
+        IAM Credentials report lists all your account's users and the status of their various credentials. The other IAM Security Tool is IAM Access Advisor. It shows the service permissions granted to a user and when those services were last accessed.
+
+    3. Which answer is INCORRECT regarding IAM Users?
+
+        - IAM Users access AWS with the root account credentials.
+
+    4. Which of the following is an IAM best practice?
+
+        - Dont use the root user account.
+
+    5. What are IAM Policies?
+
+        - JSON documents to define Users, Groups or Roles' permissions
+
+    6. Under the shared responsibility model, what is the customer responsible for in IAM?
+
+        - Assigning users proper IAM Policies.
+
+    7. Which of the following statements is TRUE?
+
+        - The AWS CLI can interact with AWS using commands in your command-line shell, while the AWS SDK can interact with aWS programmatically.
+
+    8. Which principle should you apply regarding IAM Permissions?
+
+        - Grant least privilege.
+
+    9. What should you do to increase your root account security?
+
+        - Enable Multi-Factor Authentication (MFA).
+
+## EC2
