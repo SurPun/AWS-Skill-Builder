@@ -99,3 +99,33 @@ Documentation of Learnings...
         - Enable Multi-Factor Authentication (MFA).
 
 ## EC2
+
+    1. Which EC2 Purchasing Option can provide the biggest discount, but is not suitable for critical jobs or databases?
+
+        - Spot Instances
+
+    2. Which network security tool can you use to control traffic in and out of EC2 Instances?
+
+        - Security Groups
+
+    3. Under the Shared Responsibility Model, who is responsible for operating-system patches and updates on EC2 Instances?
+
+        - The customer
+
+    4. How long can you reserve an EC2 Reserved Instance?
+
+        - 1 or 3 Year.
+
+    5. A company would like to deploy a high-performance computing (HPC) application on EC2. Which EC2 instance type should it choose?
+
+        - Compute Optimized
+
+    6. Which of the following is NOT an EC2 Instance Purchasing Option?
+
+        - Connect Instances
+
+    7. Which EC2 Purchasing Option should you use for an application you plan on running on a server continuously for 1 year?
+
+        - Reserved Instances
+
+## EC2 Instance Storage
