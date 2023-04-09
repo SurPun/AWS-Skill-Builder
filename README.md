@@ -169,3 +169,45 @@ Documentation of Learnings...
     10. What is an EBS Volume tied to?
 
         - An availability zone.
+
+## ELB & ASG
+
+    1. What is the main purpose of High Availability in the Cloud?
+
+        - Application thriving even in case of a disaster.
+
+    2. Which AWS offered Load Balancer should you use to handle hundreds of thousands of connections with low latency?
+
+        - Network Load Balancer
+
+    3. Changing an EC2 Instance Type from a t3a.medium to a t3a.2xlarge is an example of?
+
+        - Vertical scaling
+
+    4. What can you use to handle quickly and automatically the changing load on your websites and applications by adding compute resources?
+
+        - An Auto Scaling Group
+
+    5. Which of the following statements is INCORRECT regarding Auto Scaling Groups?
+
+        - Automatically changing the EC2 Instances Types
+
+    6. Which Load Balancer is best suited for HTTP/HTTPS load balancing traffic?
+
+        - Application Load Balancer
+
+    7. Which of the following is NOT an Auto Scaling Strategy?
+
+        - (Active Scaling) This is not a scaling strategy. Auto Scaling Strategies include: Manual Scaling, Dynamic Scaling (Simple/Step Scaling, Target Tracking Scaling, Scheduled Scaling), and Predictive Scaling.
+
+    8. Which AWS service offers easy horizontal scaling of compute capacity?
+
+        - ASG
+
+    9. Which of the following statements is NOT a feature of Load Balancers?
+
+        - Back-end autoscaling
+
+## S3
+
+    1.
