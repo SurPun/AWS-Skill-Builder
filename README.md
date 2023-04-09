@@ -2,7 +2,7 @@
 
 Documentation of Learnings...
 
-## What is Cloud COmputing Quiz
+## What is Cloud Computing Quiz
 
     1. You ONLY want to manage Applications and Data. Which type of Cloud Computing model should you use?
 
@@ -129,3 +129,43 @@ Documentation of Learnings...
         - Reserved Instances
 
 ## EC2 Instance Storage
+
+    1. Which EC2 Storage would you use to create a shared network file system for your EC2 Instances?
+
+        - (EFS) Amazon EFS is a fully managed service that makes it easy to set up, scale, and cost-optimize file storage in the Amazon Cloud.
+
+    2. Which service can be used to automate image management processes?
+
+        - (EC2 Image Builder) EC2 Image Builder is an automated pipeline for the creation, maintenance, validation, sharing, and deployment of Linux or Windows images for use on AWS and on-premises.
+
+    3. Which of the following is a fully managed native Microsoft Windows file system?
+
+        - (FSx) Amazon FSx makes it easy and cost effective to launch and run popular file systems that are fully managed by AWS. It comes in two offerings: FSx for Windows File Server (used for business applications), and FSx for Lustre (used for high-performance computing).
+
+    4. What are AMIs NOT used for?
+
+        - Add your own IP addresses
+
+    5. EBS Volumes CANNOT be attached to multiple EC2 instances at a time.
+
+        - (TRUE) EBS Volumes can be attached to only one EC2 Instance at a time, but EC2 Instances can have multiple EBS Volumes attached to them.
+
+    6. An EBS Volume is a network drive you can attach to your instances while they run, so your instances' data persist even after their termination.
+
+        - (True) EBS Volumes allows instances' data to persist even after their termination.
+
+    7. Which statement is CORRECT regarding EC2 Instance Store?
+
+        - It has better I/O performance, but the data is lost if the EC2 instance is terminated.
+
+    8. What is an EBS Snapshot?
+
+        - A backup of your EBS Volume at a point in time.
+
+    9. Where can you find a third party's AMI so you can use it to launch your EC2 Instance?
+
+        - AWS Marketplace AMIs
+
+    10. What is an EBS Volume tied to?
+
+        - An availability zone.
