@@ -210,4 +210,44 @@ Documentation of Learnings...
 
 ## S3
 
-    1.
+    1. Which S3 Storage Class is the most cost-effective for archiving data with no retrieval time requirement?
+
+        - (Amazon Glacier Deep Archive) is the most cost-effective option if you want to archive data and do not have a retrieval time requirement. You can retrieve data in 12 or 48 hours.
+
+    2. What hybrid AWS service is used to allow on-premises servers to seamlessly use the AWS Cloud at the storage layer?
+
+        - (AWS Storage Gateway) is a hybrid cloud storage service that gives you on-premises access to virtually unlimited cloud storage.
+
+    3. Which of the following services is a petabyte-scale data moving service (as a fleet) in or out of AWS with computing capabilities?
+
+        - Snowball Edge
+
+    4. Which of the following is an exabytes-scale data moving service in or out of AWS?
+
+        - Snowmobile
+
+    5. What are Objects NOT composed of?
+
+        - Access Keys
+
+    6. Where are objects stored in Amazon S3?
+
+        - Buckets
+
+    7. A research team deployed in a location with low-internet connection would like to move 5 TBs of data to the Cloud. Which service can it use?
+
+        - Snowcone
+
+    8. What can you use to define actions to move S3 objects between different storage classes?
+
+        - Lifecycle Rules
+
+    9. A non-profit organization needs to regularly transfer petabytes of data to the cloud and to have access to local computing capacity. Which service can help with this task?
+
+        - Snowball Edge Storage Optimized
+
+    10. Which S3 Storage Class is suitable for less frequently accessed data, but with rapid access when needed, while keeping a high durability and allowing an Availability Zone failure?
+
+        - Amazon S3 Standard-Infrequent Access
+
+## Databases & Analytics
