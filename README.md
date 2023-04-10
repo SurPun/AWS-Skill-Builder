@@ -251,3 +251,76 @@ Documentation of Learnings...
         - Amazon S3 Standard-Infrequent Access
 
 ## Databases & Analytics
+
+    1. You want to create a decentralized blockchain on AWS. Which AWS service would you use?
+
+        - Managed Blockchain
+
+    2. Which AWS database is a data warehouse?
+
+        - Redshift
+
+    3. Which AWS service is always serverless and has SQL capabilities?
+
+        - Athena
+
+    4. You would like to use a serverless service to prepare data so it can be loaded for analytics. Which service would you use?
+
+        - (AWS Glue) is a fully managed extract, transform, and load (ETL) service that makes it easy for customers to prepare and load their data for analytics.
+
+
+    5. Which relational database is a proprietary technology from AWS and is cloud-optimized?
+
+        - Aurora
+
+    6. You would like to migrate databases to AWS while still being able to use the database during the migration. What service allows you to do this?
+
+        - Database Migration Service (DMS)
+
+    7. How can you create Hadoop clusters to analyze and process a vast amount of data?
+
+        - Amazon EMR
+
+    8. Which in-memory AWS database can you use to reduce the load off databases and has high performance, low latency?
+
+        - ElastiCache
+
+    9. What is the name of a central repository to store structural and operational metadata for data assets in AWS Glue?
+
+        - Glue Data Catalog
+
+    10. Which of the following databases is a managed service with SQL capability suited for Online Transaction Processing (OLTP)?
+
+        - RDS
+
+    11. Which AWS service is an immutable ledger database?
+
+        - QLDB
+
+    12. You would like to set up a NoSQL database that can scale with no downtime and can handle millions of requests per second. Which AWS database is best suited for this work?
+
+        - DynamoDB
+
+    13. Which AWS service can create complex graphs for fraud detection?
+
+        - Neptune
+
+    14. Which AWS serverless service can use machine learning-powered business intelligence to create interactive dashboards such as business analytics?
+
+        - QuickSight
+
+    15. A company would like to set up a fully managed MongoDB database. Which AWS database is best-suited for this task?
+
+        - DocumentDB
+
+    16. Which exclusive DynamoDB feature is an in-memory cache that can improve your performance up to 10x?
+
+        - DynamoDB Accelerator
+
+    17. RDS Multi-AZ deployments’ main purpose is high availability, while RDS Read replicas’ main purpose is scalability.
+
+        - (TRUE) DS Multi-AZ deployments’ main purpose is high availability, and RDS Read replicas’ main purpose is scalability. Moreover, Multi-Region deployments’ main purpose is disaster recovery and local performance.
+
+## Other Compute Services: ECS, Lambda, Batch, LightSail
+
+    1.
