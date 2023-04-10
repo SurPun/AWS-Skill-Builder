@@ -483,4 +483,36 @@ Documentation of Learnings...
 
 ## Cloud Monitoring
 
-    -
+    1. Which CloudWatch feature would you use to trigger notifications when a metric reaches a threshold you specify?
+
+        - CloudWatch Alarms
+
+    2. Which AWS service helps developers analyze and debug production as well as distributed applications?
+
+        - X-Ray
+
+    3. Which AWS service provides alerts and remediation guidance when AWS is experiencing events that may impact you?
+
+        - Personal Health Dashboard
+
+    4. You need to set up metrics monitoring for every service in AWS. Which service would you use?
+
+        - CloudWatch
+
+    5. Which service allows you to inspect, audit, and record events and API calls made within your AWS account?
+
+        - CloudTrail
+
+    6. Which AWS service automatically analyzes code and provides performance recommendations?
+
+        - CodeGuru
+
+    7. How would you describe Amazon CloudWatch Logs?
+
+        - A single, highly scalable service that centralizes the logs from all your systems, applications, and AWS services that you use.
+
+    8. If a resource is deleted in AWS, which service should you use to investigate first?
+
+        - CloudTrail
+
+## VPC & Networking
