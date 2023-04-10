@@ -323,4 +323,50 @@ Documentation of Learnings...
 
 ## Other Compute Services: ECS, Lambda, Batch, LightSail
 
+    1. How do you get charged in AWS Lambda?
+
+        - Per call and per duration
+
+    2. You would like to launch Docker containers in AWS without worrying about provisioning or managing any infrastructure. The Docker containers will be used to host a heavy workloads to serve different types of requests. Some requests may need up to 30 minutes to be completed. Which AWS service should you use to run Docker containers in a Serverless way and satisfy the requirements?
+
+        - Fargate
+
+    3. A complete cloud beginner would like to create a simple application with predictable pricing. What service should this person use?
+
+        - LightSail
+
+    4. What is the name of the software development platform that allows you to run applications the same way, regardless of where they are run?
+
+        - Docker
+
+    5. How would you best describe "event-driven" in AWS Lambda?
+
+        - Happens when needed
+
+    6. Which AWS service allows you to launch Docker containers on AWS, but requires you to provision and maintain the infrastructure?
+
+        - ECS
+
+    7. Which of the following statements is INCORRECT regarding the definition of the term "serverless"?
+
+        - There are no servers
+
+    8. Which of the following statements is NOT a feature of AWS Lambda?
+
+        - Definition of a minimum and a maximum of EC2 Instances running
+
+    9. A company needs to run thousands of jobs but would like to NOT manage the compute resources. What service can it use?
+
+        - Batch
+
+    10. Where should you store your private Docker images so they can be run by ECS or Fargate?
+
+        - Elastic Container Registry
+
+    11. Which AWS serverless service can be used by developers to create APIs?
+
+        - API Gateway
+
+## Deployments & Managing Infrastructure at Scale
+
     1.
