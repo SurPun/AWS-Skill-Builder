@@ -667,4 +667,64 @@ Documentation of Learnings...
 
 ## Account Management, Billing & Support
 
+    1. Which services are free to use in AWS?
+
+        - IAM, VPC, Consolidated Billing, and Elastic Beanstalk
+
+    2. CloudFront pricing is the same in every geographic region.
+
+        - false
+
+    3. When you reserve, the larger the upfront payment, the smaller the discount.
+
+        - False, the larger the upfront, the bigger the discount
+
+    4. Which of the following is NOT a pricing factor in S3?
+
+        - Data transfer into S3
+
+    5. EBS Snapshots are added cost in GB per month.
+
+        - True
+
+    6. Which of the following options can provide up to 66% discount compared to On-demand for a commitment to a consistent amount of usage for 1 or 3 years and offers the possibility to change EC2 instances family type?
+
+        - Compute Savings Plans
+
+    7. You are running an on-demand Linux EC2 instance, what timing is applied regarding billing?
+
+        - Pay per second
+
+    8. Which pricing model allows you to minimize risks, predictably manage budgets, and comply with long-term requirements, and is available for EC2, DynamoDB, ElastiCache, RDS, and Redshift?
+
+        - Save when you reserve
+
+    9. Which RDS pricing option is the most cost-effective if you need capacity for 3 years?
+
+        - Reserved Instances
+
+## Advanced Identity
+
+    1. A company would like to use their on-premises Microsoft Active Directory to connect to its AWS resources. Which service can it use?
+
+        - Directory Services
+
+    2. A company would like to use their on-premises Microsoft Active Directory to connect to its AWS resources. Which service can it use?
+
+        - Organizations
+
+    3. which AWS service allows you to create temporary, limited-privilege credentials for your AWS resources?
+
+        - Security Token Service (STS)
+
+    4. A company just created a new mobile application and wants to add a simple and secure user sign-up, sign-in, and access control. Which AWS service can it use?
+
+        - Cognito
+
+    5. A company would like to centrally manage access to multiple AWS accounts and business applications. Which service can it use?
+
+        - Single Sign-On
+
+## Other Services
+
     1.
