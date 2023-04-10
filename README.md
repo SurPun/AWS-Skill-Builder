@@ -461,4 +461,26 @@ Documentation of Learnings...
 
 ## Cloud Integrations
 
-    1.
+    1. A company using Apache ActiveMQ is migrating to the cloud. Which AWS service can it use to easily set up and operate its message brokers in the cloud?
+
+        - MQ
+
+    2. Which service is a fully managed pub/sub messaging service that makes it easy to set up, operate, and send notifications from the cloud, using a push-based system?
+
+        - Simple Notification Service (SNS)
+
+    3. You can use Kinesis to perform real-time analysis from video streams.
+
+        - True
+
+    4. Which principle is mainly applied when using Amazon SQS or Amazon SNS?
+
+        - Decouple your applications
+
+    5. Which service allows you to send, store, and receive messages between software components at any volume, without losing messages or requiring other services to be available, using a pull-based system?
+
+        - Simple Queue Service (SQS)
+
+## Cloud Monitoring
+
+    -
