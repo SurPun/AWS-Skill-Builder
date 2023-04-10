@@ -369,4 +369,59 @@ Documentation of Learnings...
 
 ## Deployments & Managing Infrastructure at Scale
 
-    1.
+    1. CodeStar can be used to monitor and check the health of an environment.
+
+        - False
+
+    2. Which AWS managed service allows to automate software deployments to a hybrid mix of EC2 Instances and On-Premises servers?
+
+        - CodeDeploy
+
+    3. A developer team would like to collaborate on code with versioning support. Which AWS service can help the developers?
+
+        - CodeCommit
+
+    4. You need a unified user interface that gives you visibility, control, and patching capabilities for your EC2 Instances on AWS, as well as for servers running in your on-premises data centers. Which service should you use?
+
+        - Systems Manager
+
+    5. You need to use Chef or Puppet. Which AWS service should you use?
+
+        - OpsWorks
+
+    6. A developer would like to deploy infrastructure on AWS but only knows Python. Which AWS service can assist him?
+
+        - CDK
+
+    7. Which of the following allows you to deploy any AWS Infrastructure as a Code?
+
+        - CloudFormation
+
+    8. A new startup would like an online integrated development environment (IDE) to write, run, and debug code. Which AWS service can help with this task?
+
+        - Cloud9
+
+    9. Which service is referred to as a Platform as a Service (PaaS)?
+
+        - Elastic BeanSTALK
+
+    10. What is called the declaration of the AWS resources that make up a stack?
+
+        - CloudFormation Templates
+
+    11. Which of the following services can a developer use to store code dependencies?
+
+        - Cloud Artifact
+
+    12. CodeStar can orchestrate the different steps to have code automatically pushed to production, while CodePipeline is a unified UI to easily manage software development activities in one place.
+
+        - False
+
+    13. Which serverless service can be used to build code and run tests?
+
+        - CodeBuild
+
+    14. CloudFormation and Elastic Beanstalk are free of use.
+
+        - True
+
