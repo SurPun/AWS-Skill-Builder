@@ -727,4 +727,30 @@ Documentation of Learnings...
 
 ## Other Services
 
+    1. You would like to convert an S3 file so it can be played on users’ devices. Which AWS service can help?
+
+        - Elastic Transcoder
+
+    2. You would like to access desktop applications through a browser. Which AWS service would you use?
+
+        - AppStream 2.0
+
+    3. Which AWS service can be used to test your application across real desktop browsers and mobile devices?
+
+        - (AWS Device Farm) is an application testing service that lets you improve the quality of your web and mobile apps by testing them across an extensive range of desktop browsers and real mobile devices; without having to provision and manage any testing infrastructure.
+
+    4. Which AWS service is serverless and lets you connect billions of devices to the AWS Cloud?
+
+        - IoT Core
+
+    5. CloudEndure Disaster Recovery is used to centrally automate backups across AWS services while AWS Backup is used to quickly and easily recover servers into AWS.
+
+        - False
+
+    6. A hybrid company would like to provision desktops to their employees so they can access securely both the AWS Cloud and their data centers. Which AWS service can help?
+
+        - WorkSpaces
+
+## AWS Architecting & Ecosystem
+
     1.
