@@ -425,3 +425,40 @@ Documentation of Learnings...
 
         - True
 
+## Leveraging the AWS Global Infrastructure
+
+    1. Which Route 53 Routing Policies would you use to route traffic to multiple resources in proportions that you specify?
+
+        - Weighted Routing Policy
+
+    2. Which service is optimized to deploy ultra-low latency applications to 5G devices?
+
+        - Wavelength
+
+    3. You need to enable fast, easy, and secure transfers of files over long distances on S3. Which service would you use?
+
+        - S3 Transfer Acceleration
+
+    4. What does AWS CloudFront use to improve read performance?
+
+        - Caching Content in Edge Locations
+
+    5. Which service can be used to run AWS infrastructure and services on-premises for a hybrid cloud architecture?
+
+        - Outposts
+
+    6. Which of the following statements is NOT a reason for a global application?
+
+        - Scale elastically on demand
+
+    7. Which features are available with Route 53?
+
+        - Domain Registration, DNS, Health Checks, Routing Policy
+
+    8. With which services does CloudFront integrate to protect against web attacks?
+
+        - WAF & Shield
+
+## Cloud Integrations
+
+    1.
