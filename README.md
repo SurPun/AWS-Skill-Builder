@@ -551,4 +551,78 @@ Documentation of Learnings...
 
 ## Security & Compliance
 
+    1. Data sitting on an RDS instance would be referred to as?
+
+        - Data at rest
+
+    2. According to the Shared Responsibility Model, who is responsible for firewall and network configuration for EC2 Instances?
+
+        - The Customer
+
+    3. Which of the following services can you use to discover and protect your sensitive data in AWS?
+
+        - Macie
+
+    4. Which AWS service lets you quickly find the root of potential security issues to take faster actions?
+
+        - Detective
+
+    5. A company would like to protect its web applications from common web exploits that may affect availability, compromise security, or consume excessive resources. Which AWS service should they use?
+
+        - AWS Web Application Firewall (WAF)
+
+    6. Where can you find on-demand access to AWS compliance documentation and AWS agreements?
+
+        - Artifact
+
+    7. You can perform any kind of penetration testing on any AWS service without prior approval.
+
+        - False
+
+    8. You want to record configurations and changes over time. Which service allows you to do this?
+
+        - Config
+
+    9. A company would like to secure network communications using SSL & TLS certificates. Which AWS service can it use?
+
+        - Certificate Manager (ACM)
+
+    10. According to the Shared Responsibility Model, who is responsible for Patch Management?
+
+        - AWS and the customer
+
+    11. You want to centrally automate security checks across several AWS accounts. Which AWS service can you use?
+
+        - Security Hub
+
+    12. Which of the following services is managed by AWS and is used to manage encryption keys?
+
+        - AWS KMS
+
+    13. A company would like to automate security on EC2 instances to assess security and vulnerabilities in these instances. Which AWS service should it use?
+
+        - Inspector
+
+    14. Which of the following actions does NOT require the root user?
+
+        - Access the billing dashboard
+
+    15. According to the Shared Responsibility Model, who is responsible for protecting hardware?
+
+        - AWS
+
+    16. Which AWS service's ONLY role is to safeguard running applications from DDoS attacks?
+
+        - Shield
+
+    17. Which service is a threat detection service that continuously monitors for malicious activity and unauthorized behavior to protect your AWS accounts and workloads?
+
+        - Amazon GuardDuty
+
+    18. Which of the following options is NOT a situation where you should contact the AWS Abuse team?
+
+        - Losing your MFA device
+
+## Machine Learning
+
     1.
