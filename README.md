@@ -753,4 +753,34 @@ Documentation of Learnings...
 
 ## AWS Architecting & Ecosystem
 
-    1.
+    1. Auto Scaling in EC2 and DynamoDB are examples of?
+
+        - Horizontal Scaling
+
+    2. AWS Trusted Advisor can provide guidance against the 5 Well-Architected pillars and architectural best practices.
+
+        - False
+
+    3. Which of the following are design principles of Performance Efficiency?
+
+        - Go global in minutes & experiment more often
+
+    4. Which of the following is NOT an AWS Partner Network (APN) type?
+
+        - APN Services Partners
+
+    5. Testing recovery procedures, stopping guessing capacity, and managing changes in automation are design principles of Performance Efficiency.
+
+        - False
+
+    6. Which AWS service is the key to Operational Excellence?
+
+        - CloudFormation
+
+    7. AWS Cost Explorer and AWS Trusted Advisor are services examples of which Well-Architected Framework pillar?
+
+        - Cost Optimization
+
+    8. Implementing Security Groups, NACLs, KMS, or CloudTrail reflects which Well-Architected Framework Pillar?
+
+        - Security
