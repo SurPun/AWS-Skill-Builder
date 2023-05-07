@@ -2,6 +2,8 @@
 
 Documentation of Learnings...
 
+[Course](https://explore.skillbuilder.aws/learn/lp/82/cloud-essentials-learning-plan)
+
 ## What is Cloud Computing Quiz
 
     1. You ONLY want to manage Applications and Data. Which type of Cloud Computing model should you use?
