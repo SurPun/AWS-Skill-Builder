@@ -2,7 +2,7 @@
 
 Documentation of Learnings...
 
-[Course](https://explore.skillbuilder.aws/learn/lp/82/cloud-essentials-learning-plan)
+[AWS Course](https://explore.skillbuilder.aws/learn/lp/82/cloud-essentials-learning-plan) | [Udemy Course](https://www.udemy.com/share/103a093@ZPrI4J_pAryecxWsI00ewtreQYJc4DfGYKYNut6OOxWkeZhJcB5zzISn5RG1AFvs/)
 
 ## What is Cloud Computing Quiz
 
